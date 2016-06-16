@@ -1,0 +1,10 @@
+img {
+  width: 400px;
+}
+
+.groupA, .groupB, .groupC {
+  display: none;
+}
+.show(
+  display:none;
+  )
